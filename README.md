@@ -142,4 +142,5 @@ Liste des étudiants ayant réussi ce TP
 * Clement DOSDA,
 * Valentin BONINO,
 * Baptiste LOMBARDO,
-* Amenuve EDOH-KOSSI.
+* Amenuve EDOH-KOSSI,
+* Essi AGBEFOU.
